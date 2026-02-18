@@ -1,5 +1,5 @@
-import imgLeft from "../assets/content-1.png";
-import imgRight from "../assets/content-2.png";
+import imgLeft from "../assets/x1.png";
+import imgRight from "../assets/x2.png";
 
 export default function Content() {
   return (
